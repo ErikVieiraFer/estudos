@@ -1,0 +1,2 @@
+C:/Programs/ADF/pilares/base/Flutter/academia_do_flutter/Projetos/flutter_primeiro_projeto/android/app/.cxx/Debug/4k4w6a5e/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Programs/ADF/pilares/base/Flutter/academia_do_flutter/Projetos/flutter_primeiro_projeto/android/app/.cxx/Debug/4k4w6a5e/armeabi-v7a/CMakeFiles/rebuild_cache.dir
