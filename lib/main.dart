@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_maonamassa_navegacao/pages/botoes_rotacao_textp_page/botoes_rotacao_texto_page.dart';
+import 'package:flutter_maonamassa_navegacao/pages/bottom_navigator_bar/bottom_navigator_bar.dart';
 import 'package:flutter_maonamassa_navegacao/pages/cidades/cidades_page.dart';
 import 'package:flutter_maonamassa_navegacao/pages/dialogs/dialogs_page.dart';
 import 'package:flutter_maonamassa_navegacao/pages/forms/forms_page.dart';
@@ -51,6 +52,7 @@ class MyApp extends StatelessWidget {
         '/forms/forms_page': (_) => FormsPage(),
         '/cidades/cidades_page': (_) => CidadesPage(),
         '/stack/stack_page': (_) => StackPage(),
+        '/bottom_navigator_bar': (_) => BottomNavigatorBarPage(),
       },
     );
   }
