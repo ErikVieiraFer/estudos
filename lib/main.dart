@@ -7,6 +7,7 @@ import 'package:flutter_maonamassa_navegacao/pages/colors/colors_page.dart';
 import 'package:flutter_maonamassa_navegacao/pages/dialogs/dialogs_page.dart';
 import 'package:flutter_maonamassa_navegacao/pages/forms/forms_page.dart';
 import 'package:flutter_maonamassa_navegacao/pages/layout_builder/layout_builder.dart';
+import 'package:flutter_maonamassa_navegacao/pages/material_banner/material_banner_page.dart';
 import 'package:flutter_maonamassa_navegacao/pages/media_query/media_query.dart';
 import 'package:flutter_maonamassa_navegacao/pages/scrolls/list_view_page.dart';
 import 'package:flutter_maonamassa_navegacao/pages/scrolls/singlechieldscrowview_page.dart';
@@ -57,6 +58,7 @@ class MyApp extends StatelessWidget {
         '/bottom_navigator_bar': (_) => BottomNavigatorBarPage(),
         '/circle_avatar': (_) => CircleAvatarPage(),
         '/colors_page': (_) => ColorsPage(),
+        '/material_banner': (_) => MaterialBannerPagePage(),
       },
     );
   }
