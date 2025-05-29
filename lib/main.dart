@@ -1,22 +1,22 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_maonamassa_navegacao/pages/botoes_rotacao_textp_page/botoes_rotacao_texto_page.dart';
-import 'package:flutter_maonamassa_navegacao/pages/bottom_navigator_bar/bottom_navigator_bar.dart';
-import 'package:flutter_maonamassa_navegacao/pages/cidades/cidades_page.dart';
-import 'package:flutter_maonamassa_navegacao/pages/circlea_vatar/circle_avatar_page.dart';
-import 'package:flutter_maonamassa_navegacao/pages/colors/colors_page.dart';
-import 'package:flutter_maonamassa_navegacao/pages/dialogs/dialogs_page.dart';
-import 'package:flutter_maonamassa_navegacao/pages/forms/forms_page.dart';
-import 'package:flutter_maonamassa_navegacao/pages/layout_builder/layout_builder.dart';
-import 'package:flutter_maonamassa_navegacao/pages/material_banner/material_banner_page.dart';
-import 'package:flutter_maonamassa_navegacao/pages/media_query/media_query.dart';
-import 'package:flutter_maonamassa_navegacao/pages/scrolls/list_view_page.dart';
-import 'package:flutter_maonamassa_navegacao/pages/scrolls/singlechieldscrowview_page.dart';
-import 'package:flutter_maonamassa_navegacao/pages/snackbar/snackbar_page.dart';
-import 'package:flutter_maonamassa_navegacao/pages/stack/stack_page.dart';
+import 'package:flutter_maonamassa_navegacao/Flutter_componentes/pages/botoes_rotacao_textp_page/botoes_rotacao_texto_page.dart';
+import 'package:flutter_maonamassa_navegacao/Flutter_componentes/pages/bottom_navigator_bar/bottom_navigator_bar.dart';
+import 'package:flutter_maonamassa_navegacao/Flutter_componentes/pages/cidades/cidades_page.dart';
+import 'package:flutter_maonamassa_navegacao/Flutter_componentes/pages/circlea_vatar/circle_avatar_page.dart';
+import 'package:flutter_maonamassa_navegacao/Flutter_componentes/pages/colors/colors_page.dart';
+import 'package:flutter_maonamassa_navegacao/Flutter_componentes/pages/dialogs/dialogs_page.dart';
+import 'package:flutter_maonamassa_navegacao/Flutter_componentes/pages/forms/forms_page.dart';
+import 'package:flutter_maonamassa_navegacao/Flutter_componentes/pages/layout_builder/layout_builder.dart';
+import 'package:flutter_maonamassa_navegacao/Flutter_componentes/pages/material_banner/material_banner_page.dart';
+import 'package:flutter_maonamassa_navegacao/Flutter_componentes/pages/media_query/media_query.dart';
+import 'package:flutter_maonamassa_navegacao/Flutter_componentes/pages/scrolls/list_view_page.dart';
+import 'package:flutter_maonamassa_navegacao/Flutter_componentes/pages/scrolls/singlechieldscrowview_page.dart';
+import 'package:flutter_maonamassa_navegacao/Flutter_componentes/pages/snackbar/snackbar_page.dart';
+import 'package:flutter_maonamassa_navegacao/Flutter_componentes/pages/stack/stack_page.dart';
 
-import 'pages/container/container_page.dart';
-import 'pages/home_page/home_page.dart';
-import 'pages/rows_columns/rows_columns_page.dart';
+import 'Flutter_componentes/pages/container/container_page.dart';
+import 'Flutter_componentes/pages/home_page/home_page.dart';
+import 'Flutter_componentes/pages/rows_columns/rows_columns_page.dart';
 
 void main() {
   runApp(MyApp());

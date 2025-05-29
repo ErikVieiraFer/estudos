@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_maonamassa_navegacao/pages/dialogs/dialog_custom.dart';
+import 'package:flutter_maonamassa_navegacao/Flutter_componentes/pages/dialogs/dialog_custom.dart';
 
 class DialogsPage extends StatelessWidget {
   const DialogsPage({super.key});

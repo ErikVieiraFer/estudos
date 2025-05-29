@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_maonamassa_navegacao/pages/bottom_navigator_bar/call.dart';
-import 'package:flutter_maonamassa_navegacao/pages/bottom_navigator_bar/contacts.dart';
-import 'package:flutter_maonamassa_navegacao/pages/bottom_navigator_bar/emergency.dart';
+import 'package:flutter_maonamassa_navegacao/Flutter_componentes/pages/bottom_navigator_bar/call.dart';
+import 'package:flutter_maonamassa_navegacao/Flutter_componentes/pages/bottom_navigator_bar/contacts.dart';
+import 'package:flutter_maonamassa_navegacao/Flutter_componentes/pages/bottom_navigator_bar/emergency.dart';
 
 class BottomNavigatorBarPage extends StatefulWidget {
   const BottomNavigatorBarPage({super.key});

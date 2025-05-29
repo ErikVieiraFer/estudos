@@ -2,7 +2,7 @@ import 'dart:convert';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter_maonamassa_navegacao/pages/cidades/model/cidade.dart';
+import 'package:flutter_maonamassa_navegacao/Flutter_componentes/pages/cidades/model/cidade.dart';
 
 class CidadesPage extends StatefulWidget {
   const CidadesPage({super.key});
